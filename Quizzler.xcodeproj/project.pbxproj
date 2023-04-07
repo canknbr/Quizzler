@@ -44,7 +44,6 @@
 		3604480929E026980057962E = {
 			isa = PBXGroup;
 			children = (
-				3604482B29E040800057962E /* QuizBrain.swift */,
 				3604481429E026980057962E /* Quizzler */,
 				3604481329E026980057962E /* Products */,
 			);
@@ -61,6 +60,7 @@
 		3604481429E026980057962E /* Quizzler */ = {
 			isa = PBXGroup;
 			children = (
+				3604482B29E040800057962E /* QuizBrain.swift */,
 				3604481529E026980057962E /* AppDelegate.swift */,
 				3604481729E026980057962E /* SceneDelegate.swift */,
 				3604481929E026980057962E /* ViewController.swift */,
